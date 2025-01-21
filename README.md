@@ -22,8 +22,7 @@ Here's how I tackled the data:
 
 ## 🛠️ Technologies Used
 - **Python:** For API requests and data manipulation.
-- **PostgreSQL:** For database management and complex SQL queries.
-- **Tableau (optional):** For creating engaging visualizations of the findings (link to Tableau dashboard if available).
+- **PostgreSQL:** For database management and SQL queries.
 
 ## 🎤 Conclusion and Future Work
 This project not only enhanced my understanding of API handling and database management but also gave me invaluable insights into my own music preferences. Future directions could include:
